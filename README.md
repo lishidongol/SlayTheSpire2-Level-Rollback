@@ -60,10 +60,8 @@ cd frontend && npm run build
 go test ./
 ```
 
-## 已知事项 / 便于复现的测试数据
-
-- 本仓库根目录含样例存档：`sts2-save-20260828-004500`（未修改）、
-  `sts2-save-20260828-004500.fixed-2.4`（Python 修复版回退到 2.4 的结果，用于对照）、
-  `sts2-save-20260828-004503`（早期未修复脚本的结果，用于演示 `visited_map_coords` 未截断问题）。
-- `rollback_test.go` 会读取这些样例做回归（`go test ./`）。
 - 前端绑定：`wails3 generate bindings`（build 流程自动执行，输出 `frontend/bindings/sts2rollback/*.ts`）。
+
+
+
+![img](.\imgs\img.png)![img](.\imgs\img_1.png)
