@@ -1,0 +1,25 @@
+# 编辑器 / IDE
+.idea/
+.vscode/
+*.swp
+
+# 构建产物
+.task
+bin
+*.exe
+frontend/dist
+build/linux/appimage/build
+build/windows/nsis/MicrosoftEdgeWebview2Setup.exe
+# 前端绑定与依赖（wails3 build/`wails3 generate bindings` 自动重新生成）
+frontend/bindings
+frontend/node_modules
+
+# Mobile generated (per-machine; overlays hold absolute paths)
+build/ios/xcode/overlay.json
+build/ios/xcode/gen/
+build/android/overlay.json
+build/android/gen/
+
+# 其它
+.DS_Store
+*.tmp
