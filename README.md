@@ -64,6 +64,6 @@ go test ./
 
 
 
-![关卡]([imgs/img.png)
+![关卡](imgs/img.png)
 
-![玩家信息]([imgs/img_1.png)
+![玩家信息](imgs/img_1.png)
