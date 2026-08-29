@@ -64,6 +64,6 @@ go test ./
 
 
 
-![img]([https://github.com/lishidongol/SlayTheSpire2-Level-Rollback/blob/main/imgs/img.png)
+![关卡]([imgs/img.png)
 
-![img]([https://github.com/lishidongol/SlayTheSpire2-Level-Rollback/blob/main/imgs/img_1.png)
+![玩家信息]([imgs/img_1.png)
