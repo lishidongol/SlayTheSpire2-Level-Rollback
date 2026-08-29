@@ -64,4 +64,6 @@ go test ./
 
 
 
-![img](.\imgs\img.png)![img](.\imgs\img_1.png)
+![img]([https://github.com/lishidongol/SlayTheSpire2-Level-Rollback/blob/main/imgs/img.png)
+
+![img]([https://github.com/lishidongol/SlayTheSpire2-Level-Rollback/blob/main/imgs/img_1.png)
